@@ -5,7 +5,7 @@ this is a implement of [Deep smoke segmentation](https://arxiv.org/abs/1809.0077
 ### Data
 [train data](https://pan.baidu.com/share/init?surl=B_KC7SBKiQOPgPk8SWgZhg) with password “w5nv”,test data: [DS01](https://pan.baidu.com/share/init?surl=auG5E6vY2WNlkoWVovZ8Sw) with password "bymb", [DS02](https://pan.baidu.com/share/init?surl=pMQgPcBWBzPd_hck6CAbVA) with password "0s0d", [DS03](https://pan.baidu.com/share/init?surl=tQ00gqlXBhSi9F59LQr-Jg) with password "n8w4";
 ### model 
-you can run the test using [model]()
+you can run the test using [model](https://pan.baidu.com/s/16IolEoXFZChlTKNo2t5jnA) with password "3d7c"
 
 ## How to use
 ### Dependencies
@@ -21,3 +21,6 @@ run test.py to test your trained model.You should preprocess the test dataset be
 ### vis
 you can run vis.py to put the test result(0/255png)mask on the original pic as shown at first.
 ### result
+the result after vis is ![result/result.png](result/result.png)
+### Question
+if you have any question ,you can pull the Issues or email me 359684740@qq.com.
