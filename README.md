@@ -17,7 +17,7 @@ Also, this code should be compatible with Python versions 3.6 or 3.7.
 run train.py to train the model
 ### test
 run test.py to test your trained model.You should preprocess the test dataset before test by setting a threshold in A channel 
-（A chaanel means RGBA's A channel）
+（A channel means RGBA's A channel）
 ### vis
 you can run vis.py to put the test result(0/255png)mask on the original pic as shown at first.
 ### result
