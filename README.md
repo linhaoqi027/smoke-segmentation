@@ -22,5 +22,7 @@ run test.py to test your trained model.You should preprocess the test dataset be
 you can run vis.py to put the test result(0/255png)mask on the original pic as shown at first.
 ### result
 the result after vis is ![result/result.png](result/result.png)
+### ToDo
+you can also use trained model to test real smoke,which can be more accurate if you finetune on the real smoke picture.
 ### Question
 if you have any question ,you can pull the Issues or email me 359684740@qq.com.
